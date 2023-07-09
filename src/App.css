@@ -1,0 +1,112 @@
+/* body {
+  background-color: #f6f1e8;
+} */
+.row {
+  margin-top: 50px;
+}
+
+#menu_bar{
+  background-color: rgb(122, 165, 205);
+  text-align: center;
+  padding-top: 8px;
+}
+
+li{
+  display: inline-block;
+  color: rgb(242, 237, 237);
+  font-size: 18px;
+  font-weight: bold;
+  padding-left: 95px;
+  padding-bottom: 12px;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+span {
+  /* background-color: rgb(230, 214, 214); */
+  font-weight: bold;
+  font-size: 18px;
+  color: rgb(21, 1, 1);
+}
+
+button:hover {
+  background-color: rgb(85, 78, 78);
+  color: white;
+}
+
+.hedaer {
+  text-align: center;
+  margin-top: 30px;
+  background-color: aliceblue;
+}
+
+img:hover {
+  opacity: 0.5;
+}
+
+.heading {
+  padding-top: 100px;
+}
+
+.login,
+.heading,
+.h1 {
+  margin-left: 10px;
+  margin-right: 40px;
+}
+
+.login {
+  margin-top: 20px;
+}
+
+.login-btn {
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  margin: 10px;
+}
+
+.container text-center,
+img {
+  height: 300px;
+}
+
+.Footer,
+.container text-center {
+  background-color: rgb(185, 209, 231);
+  margin-top: 100px;
+  font-size: large;
+  font-weight: 300;
+  text-align: left;
+  padding: 5px;
+}
+
+.highlight {
+  color: red;
+  margin-left: 20px;
+  font-size: larger;
+}
+
+.header {
+  background-color: rgb(198, 218, 234);
+}
+
+button {
+  margin: 5px;
+}
+
+.Main {
+  background-color: #adb5bd86;
+}
+
+/* .header,
+.container text-center{
+  background-color: blue;
+} */
